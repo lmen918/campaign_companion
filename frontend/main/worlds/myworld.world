@@ -6,27 +6,6 @@
             "width": 800,
             "x": 64,
             "y": -160
-        },
-        {
-            "fileName": "maps/simplemap2.tmx",
-            "height": 640,
-            "width": 640,
-            "x": -160,
-            "y": 480
-        },
-        {
-            "fileName": "maps/simplemap3.tmx",
-            "height": 640,
-            "width": 800,
-            "x": -736,
-            "y": -160
-        },
-        {
-            "fileName": "maps/simplemap4.tmx",
-            "height": 640,
-            "width": 800,
-            "x": -736,
-            "y": -800
         }
     ],
     "onlyShowAdjacentMaps": false,
