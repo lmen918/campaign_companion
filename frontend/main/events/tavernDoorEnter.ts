@@ -10,6 +10,6 @@ import { RpgEvent, EventData, RpgPlayer } from '@rpgjs/server'
 
 export default class TavernDoorEnterEvent extends RpgEvent {
     async onPlayerTouch(player: RpgPlayer) {
-        await player.changeMap('');
+        await player.changeMap('Tavern');
     }
 }

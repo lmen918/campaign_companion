@@ -6,6 +6,13 @@
             "width": 800,
             "x": 64,
             "y": -160
+        },
+        {
+            "fileName": "maps/Tavern.tmx",
+            "height": 512,
+            "width": 512,
+            "x": -48,
+            "y": -672
         }
     ],
     "onlyShowAdjacentMaps": false,
