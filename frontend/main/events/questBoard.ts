@@ -4,7 +4,7 @@ import { RpgEvent, EventData, RpgPlayer } from '@rpgjs/server'
     name: 'QuestBoard',
     hitbox: {
         width: 32,
-        height: 16
+        height: 32
     }
 })
 
