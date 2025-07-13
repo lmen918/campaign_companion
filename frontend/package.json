@@ -17,11 +17,16 @@
         "@rpgjs/standalone": "4.3.0",
         "@rpgjs/types": "4.0.5",
         "axios": "^1.10.0",
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0",
         "socket.io-client": "4.7.4"
     },
     "devDependencies": {
         "@rpgjs/compiler": "4.3.0",
         "cross-env": "^7.0.3",
         "typescript": "5.3.3"
+    },
+    "resolutions": {
+        "@babel/parser": "7.23.0"
     }
 }
