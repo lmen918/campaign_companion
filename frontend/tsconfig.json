@@ -9,6 +9,7 @@
     "strictPropertyInitialization": false,
     "moduleResolution": "node",
     "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
     "removeComments": false,
     "noUnusedParameters": false,
     "noUnusedLocals": false,
@@ -18,6 +19,10 @@
     "declaration": false,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "jsx": "react-jsx",
+    "lib": ["dom", "dom.iterable", "es6"],
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
     "types": [
       "node",
       "vite/client"
